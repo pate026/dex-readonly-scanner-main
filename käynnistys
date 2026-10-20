@@ -1,0 +1,1 @@
+cd /home/pate026/dex-readonly-scanner && npx tsx src/index.ts
